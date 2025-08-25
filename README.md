@@ -16,6 +16,16 @@ This is the home of my [IA 340](https://catalog.jmu.edu/preview_program.php?cato
 1. Lab1
 2. Lab2
 3. Lab3
+4. Lab4
+5. Lab5
+6. Lab6
+7. Lab7
+8. Lab8
+9. Lab9
+10. Lab10
+11. Lab11
+12. Lab12
+13. Lab13
 
 - Mini Project
 - Final Project
