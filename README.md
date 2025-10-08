@@ -18,7 +18,7 @@ This is the home of my [IA 340](https://catalog.jmu.edu/preview_program.php?cato
 3. Lab3
 4. Lab4
 5. Lab5
-6. Lab6
+6. [Lab6](https://github.com/mlt4427/IA-340/blob/test/Lab6-MT.ipynb) 
 7. Lab7
 8. Lab8
 9. Lab9
