@@ -16,7 +16,7 @@ This is the home of my [IA 340](https://catalog.jmu.edu/preview_program.php?cato
 1. [Lab1](https://github.com/mlt4427/IA-340/blob/main/Lab1-MT.ipynb)
 2. [Lab2](https://github.com/mlt4427/IA-340/blob/main/Lab2-MT.ipynb)
 3. Lab3
-4. Lab4
+4. [Lab4](https://github.com/mlt4427/IA-340/blob/test/Collect_Census_Data.ipynb )
 5. Lab5
 6. [Lab6](https://github.com/mlt4427/IA-340/blob/test/Lab6-MT.ipynb) 
 7. Lab7
