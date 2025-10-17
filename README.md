@@ -27,6 +27,6 @@ This is the home of my [IA 340](https://catalog.jmu.edu/preview_program.php?cato
 12. Lab12
 13. Lab13
 
-- Mini Project
+- [Mini Project](https://github.com/mlt4427/IA-340/blob/test/MiniProject-MT-Copy1.ipynb)
 - Final Project
 
