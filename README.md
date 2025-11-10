@@ -22,7 +22,7 @@ This is the home of my [IA 340](https://catalog.jmu.edu/preview_program.php?cato
 7. Lab7
 8. Lab8
 9. Lab9
-10. Lab10
+10. [Lab10](https://github.com/mlt4427/IA-340/blob/main/Exploring-Twitter-Data-with-Vector-Databases-and-RAG-Systems%20(1).ipynb)
 11. Lab11
 12. Lab12
 13. Lab13
